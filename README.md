@@ -7,4 +7,4 @@ Some parts (well entire files...) are copied from [BenchmarkDotNet](https://gith
 
 ## License
 
-[The MIT License](LICENSE)
+[The MIT License](License.md)
